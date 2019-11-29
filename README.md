@@ -1,5 +1,9 @@
 ![](DrawerGif.gif)
 
+...
+you need to install pyautogui from pip
+...
+
 Put the cursor on the paint app where you want to draw spiral and execute the file
 like half of the screen your interpretor will cover and the other half your paint app will cover
 open the cmd execute the python interpretor and then open the paint App on the other half of the screen 
